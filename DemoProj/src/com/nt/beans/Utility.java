@@ -11,5 +11,11 @@ public class Utility {
 		System.out.println("utility m1:1234");
 		System.out.println("hgj");
 	}
+	public void m2() {
+		System.out.println("Utility.m2()");
+	}
+	public void m4() {
+		System.out.println("Utility.m4()");
+	}
 
 }
